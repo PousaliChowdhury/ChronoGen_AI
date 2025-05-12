@@ -1,1 +1,1 @@
-# RoutineGenerration_AI
+# RoutineGeneration_AI
