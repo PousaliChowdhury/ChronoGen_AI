@@ -301,9 +301,9 @@ if st.button("📌 Generate Optimized Routine"):
         break_times += [""] * (max_len - len(break_times))
 
         st.dataframe(pd.DataFrame({
-            "Study Time": study_times,
+            "Subjects": study_times,
             "Resource": task_times,
-            "Break Time": break_times
+            "Study Time": break_times
         }))
 
 
