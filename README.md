@@ -40,8 +40,9 @@ __3. Interactive UI with Streamlit:__
 
 - __*Multi-Environment Support:*__ Customizable for school, university, work, and more.
 
-- __*Real-Time Conflict Checking:*__ Ensures no overlap of classes or instructors.
+- __*Real-Time Conflict Checking:*__ Ensures minimum or no overlap of classes or instructors.
 
-- __*Smart Project Scheduling:*__ For work routines, projects can be prioritized and repeated efficiently.
+- __*Smart & simple Scheduling:*__ Ensures a detailed but simple & structured daily plans.
+
 
 
