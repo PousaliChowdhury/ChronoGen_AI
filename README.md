@@ -6,7 +6,7 @@
 + Built with ***Streamlit*** for interactive user experience, it dynamically generates optimal schedules for School, University, Gym/Training, Home/Self-Study, and Work environments.
 
   <br>
-<img align="right" alt="Coding" width="390" height="700" src="images/systemFlow.png">
+<img align="right" alt="Coding" width="200" height="400" src="images/systemFlow.png">
 
 ### 🔍 How It Works:
 
