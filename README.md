@@ -1,4 +1,4 @@
-# RoutineGeneration_AI 
+# ChronoGen_AI 
 
 ## AI-Powered Class Scheduling System
 
