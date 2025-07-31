@@ -34,7 +34,7 @@ def set_background(image_path):
         </style>
     """, unsafe_allow_html=True)
 
-center_header("🔁LifeSync: Smart Routine Generator")
+center_header("🔁ChronoGen: Smart Routine Generator")
 center_subheader("Design Your Day. Automate Your Focus.")
 
 routine_type = st.selectbox("Select Routine Type", ["School", "University", "Gym/Training", "Home/Self-Study", "Work"])
